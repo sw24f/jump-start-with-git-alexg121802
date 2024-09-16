@@ -27,3 +27,7 @@ Github offers live trainings with a hands-on, project-based approach for those w
 ### Training for your company 
 Github offers in-person classes taught by our highly-experienced educators. Contact us to ask your training-related questions. 
 
+## Community 
+You can connect with developers around the world to ask and answer questions, learn, and interact directly with GitHub staff. To get the conversation started, see "Github Community Support." 
+
+
