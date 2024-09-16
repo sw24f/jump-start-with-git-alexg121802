@@ -42,6 +42,6 @@ You can connect with developers around the world to ask and answer questions, le
 
 Personal Notes 
 
-I am new to Git but not new to Github as I used it for my research lab. 
+I am nuew to Git but not new to Github as I used it for my research lab. 
 
 
