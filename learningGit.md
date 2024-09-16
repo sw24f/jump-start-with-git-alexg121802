@@ -1,11 +1,11 @@
 # Git and GitHub Learning Resources 
-### There are alot of helpful Git and Github resources available 
+### There are alot of helpful Git and GitHub resources available 
 
-## Using Github
-Become better acquainted with Github through our ["Using Github"](https://docs.github.com/en/get-started/using-github) articles: 
-- to review the fundamentals of a Github workflow, see ["Github flow."](https://docs.github.com/en/get-started/using-github/github-flow)
+## Using GitHub
+Become better acquainted with GitHub through our ["Using GitHub"](https://docs.github.com/en/get-started/using-github) articles: 
+- to review the fundamentals of a GitHub workflow, see ["GitHub flow."](https://docs.github.com/en/get-started/using-github/github-flow)
 - to learn about the various tools for working with repositories hosted on Github, and how to choose a tool that best suits your needs, see ["Connecting to Github."](https://docs.github.com/en/get-started/using-github/connecting-to-github)
-- To understand the different communication tools on GitHub, such as Github Issues, GitHub Discussions, and pull requests, see ["Communicating on GitHub."](https://docs.github.com/en/get-started/using-github/communicating-on-github)
+- To understand the different communication tools on GitHub, such as GitHub Issues, GitHub Discussions, and pull requests, see ["Communicating on GitHub."](https://docs.github.com/en/get-started/using-github/communicating-on-github)
 
 ## Using Git 
 Familiarize yourself with Git through our series of articles: 
@@ -30,4 +30,7 @@ Github offers [in-person classes](https://services.github.com/#offerings) taught
 ## Community 
 You can connect with developers around the world to ask and answer questions, learn, and interact directly with GitHub staff. To get the conversation started, see ["Github Community Support."](https://github.com/orgs/community/discussions/)
 
-
+## Personal Notes 
+- I don't have too much experience with Git but I used Github with my research lab
+- I am interested in learning more
+- I am still unsure how to use git diff and whether I should be writing this in my Github or if I should be doing it in my terminal
