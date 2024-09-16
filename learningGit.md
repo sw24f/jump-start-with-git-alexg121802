@@ -16,4 +16,7 @@ Familiarize yourself with Git through our series of articles:
 - ProGit book.
 - Git command list.
 
- 
+ # Online courses 
+ - GitHub Skills offers free interactive courses that are built into GitHub with instant automated feedback and help. Learn to open your first pull request, make your first open source contribution, create a GitHub Pages site, and more. For more information about course offerings, see GitHub Skills.
+ - Git branching is a free interactive tool for learning and practicing Git concepts
+ - An interactive online Git course from Pluralsight can also teach you the basics of Git 
