@@ -1,1 +1,1 @@
-# Git and HitHub Learning Resources
+# Git and GitHub Learning Resources
