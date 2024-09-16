@@ -7,7 +7,7 @@ Become better acquainted with Github through our "Using Github" articles:
 - to learn about the various tools for working with repositories hosted on Github, and how to choose a tool that best suits your needs, see "Connecting to Github."
 - To understand the different communication tools on GitHub, such as Github Issues, GitHub Discussions, and pull requests, see "Communicating on GitHub."
 
-# Using Git 
+## Using Git 
 Familiarize yourself with Git through our series of articles: 
 - "Getting started with Git."
 - "Using Git."
@@ -16,7 +16,14 @@ Familiarize yourself with Git through our series of articles:
 - ProGit book.
 - Git command list.
 
- # Online courses 
+ ## Online courses 
  - GitHub Skills offers free interactive courses that are built into GitHub with instant automated feedback and help. Learn to open your first pull request, make your first open source contribution, create a GitHub Pages site, and more. For more information about course offerings, see GitHub Skills.
  - Git branching is a free interactive tool for learning and practicing Git concepts
- - An interactive online Git course from Pluralsight can also teach you the basics of Git 
+ - An interactive online Git course from Pluralsight can also teach you the basics of Git
+
+## Training 
+### GitHub's web-based educational programs 
+Github offers live trainings with a hands-on, project-based approach for those who love the command line and those who don't. 
+### Training for your company 
+Github offers in-person classes taught by our highly-experienced educators. Contact us to ask your training-related questions. 
+
