@@ -1,0 +1,7 @@
+---
+title: "learningGit"
+author: Alexander Gould
+date: "`r Sys.Date()`"
+format: html
+editor: visual
+---
