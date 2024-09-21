@@ -5,6 +5,6 @@ date: "`r Sys.Date()`"
 format: html
 editor: visual
 ---
-#Git and GitHub learning resources
+# Git and GitHub learning resources
 
 ## There are a lot of helpful Git and GitHub resources available.
