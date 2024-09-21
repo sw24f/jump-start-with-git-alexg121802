@@ -24,8 +24,8 @@ To understand the different communication tools on GitHub, such as GitHub Issues
 Using Git
 Familiarize yourself with Git through our series of articles:
 
-## "Getting started with Git."
-"Using Git."
+"Getting started with Git."
+## "Using Git."
 There are also lots of other online reading resources to help you learn Git:
 
 Official Git project site.
